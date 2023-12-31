@@ -1,6 +1,7 @@
 body{
     width: 100vw;
-    height: 400vh;
+    height: 100vh;
     overflow-x: hidden;
+    overflow-y: hidden;
     background: radial-gradient(50% 50% at 50% 50%, #FF025D 0%, #F87BD5 100%);
 }
